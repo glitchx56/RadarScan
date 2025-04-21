@@ -2,6 +2,6 @@
 
 A smart website monitoring tool.
 
-## Screenshot
+## RadarScan
 
 ![Tool Preview](git.png)
