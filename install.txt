@@ -1,1 +1,6 @@
-git clone https://github.com/glitchx56/RadarScan.git
+1-git clone https://github.com/glitchx56/RadarScan.git
+2-cd Radar scan
+3-pip install requests
+4-pip install colorama
+5-python3 RadarScan.py
+complete ✅
