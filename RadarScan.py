@@ -13,7 +13,7 @@ def clear():
 def print_menu():
     clear()
     print(Fore.CYAN + Style.BRIGHT + "=" * 50)
-    print(Fore.GREEN + Style.BRIGHT + " " * 15 + "VulnRadar - Monitor Tool")
+    print(Fore.GREEN + Style.BRIGHT + " " * 15 + "RadarScan - Monitor Tool")
     print(Fore.CYAN + Style.BRIGHT + "=" * 50)
     print(Fore.YELLOW + "1." + Fore.WHITE + " Website: " + Fore.LIGHTGREEN_EX + url)
     print(Fore.YELLOW + "2." + Fore.WHITE + " Monitor Duration (seconds): " + Fore.LIGHTGREEN_EX + interval)
